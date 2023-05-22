@@ -39,7 +39,7 @@ span{
     background-size: contain;
     border-radius: .6rem;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    padding: 2rem;
+    /*   */
 } 
 
 .card_selected{
@@ -47,7 +47,7 @@ span{
 }
 
 .card_match{
-/*    border: .2rem solid purple;*/
+   border: .2rem solid purple;
 }
 
 .card {
